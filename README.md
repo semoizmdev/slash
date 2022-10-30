@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Developed with 💙 by Lourity</h1>
+    <h1>Dostunuz Geldi</h1>
 </div>
 
 # 📜 Kullanım
